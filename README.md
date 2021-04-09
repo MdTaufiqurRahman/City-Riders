@@ -1,4 +1,5 @@
 ### City Riders 
+### This project is deployed at :https://city-riders-bd.web.app/
 ---
 
 #### City Riders Overview:
@@ -12,6 +13,7 @@
 * React Router
 * React Bootstrap
 * Firebase Auth
+* Google Map
 
 #### Usage Tools:
 * Firebase Hosting
