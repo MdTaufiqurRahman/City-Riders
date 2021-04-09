@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "ride_name": "Bike",
+    "capacity": "1",
+    "image": "https://i.postimg.cc/rFM4PzpP/bije.png",
+    "price": "220"
+  }, {
+    "id": 2,
+    "ride_name": "Car",
+    "capacity": "3",
+    "image": "https://i.postimg.cc/DwzX7DLQ/car.png",
+    "price": "350"
+  }, {
+    "id": 3,
+    "ride_name": "Bus",
+    "capacity": "20",
+    "image": "https://i.postimg.cc/nc2mbZjc/bus.png",
+    "price": "120"
+  }, {
+    "id": 4,
+    "ride_name": "Train",
+    "capacity": "125",
+    "image": "https://i.postimg.cc/Z5DyncxG/train.png",
+    "price": "180"
+  }]

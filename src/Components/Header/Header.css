@@ -1,0 +1,13 @@
+body{
+    background: url(../../Images/Bg.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.header {
+    text-align: center;
+}
+.header nav{
+    background-color:#17a2b8;
+    font-size: 22px;
+    line-height: 75px;
+}
+
