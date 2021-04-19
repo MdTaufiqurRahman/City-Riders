@@ -19,7 +19,7 @@ const Ride = (props) => {
           }}>
             <Card.Img variant="top" src={image} />
             <Card.Body>
-          <Button onClick={handleRide} variant="warning">{ride_name} Ride</Button>
+          <Button onClick={handleRide} variant="danger">{ride_name} Ride</Button>
             
         </Card.Body>
       </Card>

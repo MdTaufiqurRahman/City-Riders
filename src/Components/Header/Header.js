@@ -19,7 +19,7 @@ const Header = () => {
           <Link style={style} to="">CITY RIDERS</Link>
           <Link style={style} to="/home">Home</Link>
           <Link style={style} to="/destination">Destination</Link>
-          <Link style={{textDecoration: 'none',color:'black',marginLeft:'40px', padding:'5px'}} to=" "> { loggedInUser.name }</Link>
+          <Link style={{textDecoration: 'none',color:'yellow',marginLeft:'40px', padding:'5px'}} to=" "> { loggedInUser.name }</Link>
           </nav>
   </div>
     

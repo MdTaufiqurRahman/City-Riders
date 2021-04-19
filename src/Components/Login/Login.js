@@ -157,12 +157,13 @@ function Login() {
          <Container>
     <div style={{
         left: '50%',
-        top: '50%',
+        top: '10%',
         position: 'absolute',
         transform : 'translate(-50%, 20%)',
-        backgroundColor: 'LightYellow',
+        backgroundColor: 'white',
         padding:'40px',
         borderRadius:'5px',
+        border:'1px solid gray',
         width:'40%'
         
 
@@ -232,7 +233,7 @@ function Login() {
       <br />
       
           <button style={{
-                            backgroundColor:'#DC351B',
+                            backgroundColor:'#dc3545',
                             borderRadius:'5px',
                             color:'white',
                             border:'1px solid gray',

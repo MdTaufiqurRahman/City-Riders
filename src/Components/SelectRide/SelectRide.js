@@ -61,8 +61,8 @@ const SelectRide = () => {
                             <br />
 
                             <input style={{
-                                backgroundColor: '#F1C40F',
-                                color: 'black',
+                                backgroundColor: '#dc3545',
+                                color: 'white',
                                 borderRadius: '5px',
                                 border: '1px solid gray',
                                 marginTop: '15px',
@@ -80,7 +80,7 @@ const SelectRide = () => {
 
                         }} className="mt-5">
                             <div style={{
-                                backgroundColor: '#17a2b8',
+                                backgroundColor: 'maroon',
                                 borderRadius: '5px',
                                 padding: '10px',
                             }} >

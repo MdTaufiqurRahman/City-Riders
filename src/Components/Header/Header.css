@@ -1,12 +1,12 @@
 body{
-    background: url(../../Images/Bg.png)no-repeat center center fixed; ;
+    background: url('https://c4.wallpaperflare.com/wallpaper/294/783/630/buildings-night-freeway-highway-timelapse-lights-hd-wallpaper-preview.jpg')no-repeat center center fixed; 
     background-size: cover;
 }
 .header {
     text-align: center;
 }
 .header nav{
-    background-color:#17a2b8;
+    background-color:maroon;
     font-size: 22px;
     line-height: 75px;
 }
