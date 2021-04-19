@@ -157,7 +157,7 @@ function Login() {
          <Container>
     <div style={{
         left: '50%',
-        top: '10%',
+        top: '50%',
         position: 'absolute',
         transform : 'translate(-50%, 20%)',
         backgroundColor: 'white',
