@@ -163,7 +163,7 @@ function Login() {
         backgroundColor: 'LightYellow',
         padding:'40px',
         borderRadius:'5px',
-        width:'45%'
+        width:'40%'
         
 
     }}>
@@ -190,7 +190,7 @@ function Login() {
                             border:'1px solid gray',
                             padding:'5px',
                             width:'100%',
-                            marginTop:'5px'
+                            marginTop:'10px'
                             }}
            type="text" name="email" onBlur={handleBlur} placeholder="Your Email Address" required />
         <br />
@@ -201,7 +201,7 @@ function Login() {
                             border:'1px solid gray',
                             padding:'5px',
                             width:'100%',
-                            marginTop:'5px'
+                            marginTop:'10px'
                             }}
          type="password" name="password" onBlur={handleBlur} placeholder="Your Password" required/>
         <br />
@@ -211,7 +211,7 @@ function Login() {
                             border:'1px solid gray',
                             padding:'5px',
                             width:'100%',
-                            marginTop:'5px'
+                            marginTop:'10px'
                             }}
        type="submit" value={newUser ? 'Sign Up' : 'Sign In'} />
       </form>
@@ -238,7 +238,7 @@ function Login() {
                             border:'1px solid gray',
                             padding:'5px',
                             width:'100%',
-                            marginTop:'5px'
+                            marginTop:'10px'
                             }}
           onClick={handleSignIn} >Sign Up Using Google</button>
     </div>
